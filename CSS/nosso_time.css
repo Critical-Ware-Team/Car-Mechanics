@@ -1,3 +1,6 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 body{
     margin: 0px;
     background-color: #f1f1f1;
@@ -7,10 +10,6 @@ body{
     justify-content: center;
     margin-top: 120px;
     margin-bottom: 72px;
-}
-#title{
-    width: 408px;
-    height: 44px;
 }
 #img1-box{
     display: flex;
@@ -53,10 +52,10 @@ body{
     margin-right: 124px;
 }
 .rec24{
-    margin-top: 24px;
+    margin: 18px 0px;
 }
 .rec25{
-    margin: 18px;
+    margin: 0px 0px 18px 0px;
 }
 .ball-row{
     display: flex;
