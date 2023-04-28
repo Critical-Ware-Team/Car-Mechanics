@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+}
+
+#por-que-nos-escolher{
+    display: flex;
+    justify-content: space-around;
+}
+
+#porque{
+    top: 0;
+    display: flex;
+    width: 1440px;
+    height: 738px;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#porque h1{
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 72px;
+}
+
+#wrapper{
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1400px;
+    height: 500px;
+}
+
+.porque-card{
+    display: flex;
+    width: 510px;
+    height: 100px;
+    padding: 25px 50px;
+}
+
+.porque-img{
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+
+.porque-txt{
+    display: flex;
+    width: 400px;
+    height: 100px;
+    flex-direction: column;
+    position: relative;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+
+.porque-txt p{
+    display: flex;
+    text-align: left;
+}
