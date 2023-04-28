@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(40, 40, 41);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+}
+.texto-header{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    display:flex;
+    justify-content: space-around;
+ }
+ body{
+    margin: 0px;
+ }
